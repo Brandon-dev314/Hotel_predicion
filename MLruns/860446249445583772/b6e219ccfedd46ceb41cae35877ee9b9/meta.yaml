@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/860446249445583772/b6e219ccfedd46ceb41cae35877ee9b9/artifacts
+end_time: 1754002727876
+entry_point_name: ''
+experiment_id: '860446249445583772'
+lifecycle_stage: active
+run_id: b6e219ccfedd46ceb41cae35877ee9b9
+run_name: upset-loon-889
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754001902866
+status: 3
+tags: []
+user_id: Eroza

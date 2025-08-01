@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/860446249445583772/models/m-8451c337791840e49c2e834f42bbab74/artifacts
+creation_timestamp: 1753998120591
+experiment_id: '860446249445583772'
+last_updated_timestamp: 1753998125205
+model_id: m-8451c337791840e49c2e834f42bbab74
+model_type: null
+name: best_model
+source_run_id: 43948898170e4d1dbde1d0ca673d0327
+status: 2
+status_message: null

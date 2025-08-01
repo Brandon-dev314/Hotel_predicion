@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/860446249445583772/919347ed377c44b986ae9511dbfb5c10/artifacts
+end_time: 1754002727876
+entry_point_name: ''
+experiment_id: '860446249445583772'
+lifecycle_stage: active
+run_id: 919347ed377c44b986ae9511dbfb5c10
+run_name: clumsy-bear-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754001902866
+status: 3
+tags: []
+user_id: Eroza

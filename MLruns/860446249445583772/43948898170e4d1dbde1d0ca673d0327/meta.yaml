@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/860446249445583772/43948898170e4d1dbde1d0ca673d0327/artifacts
+end_time: 1753998125659
+entry_point_name: ''
+experiment_id: '860446249445583772'
+lifecycle_stage: active
+run_id: 43948898170e4d1dbde1d0ca673d0327
+run_name: capricious-shark-627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753998120102
+status: 3
+tags: []
+user_id: Eroza

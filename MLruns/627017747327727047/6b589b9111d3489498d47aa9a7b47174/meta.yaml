@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/627017747327727047/6b589b9111d3489498d47aa9a7b47174/artifacts
+end_time: 1753997230365
+entry_point_name: ''
+experiment_id: '627017747327727047'
+lifecycle_stage: active
+run_id: 6b589b9111d3489498d47aa9a7b47174
+run_name: resilient-newt-202
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753997107927
+status: 3
+tags: []
+user_id: Eroza

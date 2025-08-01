@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/860446249445583772/722f9f9647d447389067708c4ff3da7d/artifacts
+end_time: 1754002756199
+entry_point_name: ''
+experiment_id: '860446249445583772'
+lifecycle_stage: active
+run_id: 722f9f9647d447389067708c4ff3da7d
+run_name: fortunate-frog-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754001902866
+status: 3
+tags: []
+user_id: Eroza

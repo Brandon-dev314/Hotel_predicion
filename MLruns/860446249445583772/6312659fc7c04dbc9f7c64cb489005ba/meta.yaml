@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Eroza/Desktop/hotel_cancellation_prediction/mlruns/860446249445583772/6312659fc7c04dbc9f7c64cb489005ba/artifacts
+end_time: 1753998119606
+entry_point_name: ''
+experiment_id: '860446249445583772'
+lifecycle_stage: active
+run_id: 6312659fc7c04dbc9f7c64cb489005ba
+run_name: blushing-shad-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753997366653
+status: 3
+tags: []
+user_id: Eroza
